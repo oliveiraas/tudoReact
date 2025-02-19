@@ -3,17 +3,17 @@ import React from 'react';
 function Contact() {
   const alunos = [
     {
-      nome: 'João Silva',
-      linkedin: 'https://www.linkedin.com/in/joaosilva',
-      github: 'https://github.com/joaosilva',
-      whatsapp: 'https://wa.me/5511999999999',
+      nome: 'Gabriella Aguiar',
+      linkedin: 'https://www.linkedin.com/in/gabriella aguiar,
+      github: 'https://github.com/Gabriella123465',
+      whatsapp: 'https://wa.me/5563981215626',
       area: 'Desenvolvedor Front-end',
     },
     {
-      nome: 'Maria Oliveira',
-      linkedin: 'https://www.linkedin.com/in/mariaoliveira',
-      github: 'https://github.com/mariaoliveira',
-      whatsapp: 'https://wa.me/5511888888888',
+      nome: 'Vanessa dores Ferreira',
+      linkedin: 'https://www.linkedin.com/in/Vanessa dores ferreira',
+      github: 'https://github.com/Gabriella123465',
+      whatsapp: 'https://wa.me/5563999139698',
       area: 'Desenvolvedor Full-stack',
     },
     {
