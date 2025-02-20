@@ -6,7 +6,7 @@ Nosso foco é promover a inclusão digital e capacitar indivíduos para atuarem 
 
 
 
-# 🚀 **React - Aprendizado e Aplicação Prática**
+# 🚀 **[React](https://react.dev/) - Aprendizado e Aplicação Prática**
 
 Bem-vindo ao nosso projeto! Este repositório é um reflexo do que aprendemos ao longo da jornada com a **biblioteca React**. O objetivo? Colocar em prática os conceitos principais da tecnologia, criando uma página **super interativa** que não só explica as características do React, mas também mostra como ele pode transformar o desenvolvimento web moderno!
 
